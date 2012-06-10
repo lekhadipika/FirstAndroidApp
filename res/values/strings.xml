@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FirstAndroidAppActivity!</string>
+    <string name="app_name">FirstAndroidApp</string>
+
+</resources>
